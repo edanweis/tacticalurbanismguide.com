@@ -16,7 +16,7 @@ Todo
 
 
 Server and hosting information
-===
+---
 
 **Domain name provider:** www.gandi.net (Expires 13-10-2015)
 
