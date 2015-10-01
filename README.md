@@ -7,6 +7,14 @@ Known issues
 ---
 Some inconsistencies in rendering fixed divs across mobile browsers.
 
+Todo
+---
+
+- [ ] Comment and refactor for neater code.
+- [ ] Aggregate KML data 
+- [ ] Parse it into GeoJSON, using geojson.io as editor/
+
+
 Server and hosting information
 ===
 
