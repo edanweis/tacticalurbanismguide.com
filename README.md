@@ -1,7 +1,7 @@
 # tacticalurbanismguide.com
 
-This site was designed to promote the Tactical Urbanism Guide publications on (issuu)[http://issuu.com/].
-It was developed as a one-page static site, without a backend database. It uses leaflet.js to display the map, and (Tabletop.js)[https://github.com/jsoma/tabletop] + (Mapsheet.js)[https://github.com/jsoma/mapsheet] to display the map connected to google sheets. However, the Google Sheets configuraiton is not set up. The site was launched on 16-10-2014.
+This site was designed to promote the Tactical Urbanism Guide publications on [issuu](http://issuu.com/).
+It was developed as a one-page static site, without a backend database. It uses leaflet.js to display the map, and [Tabletop.js](https://github.com/jsoma/tabletop) + [Mapsheet.js](https://github.com/jsoma/mapsheet) to display the map connected to google sheets. However, the Google Sheets configuraiton is not set up. The site was launched on 16-10-2014.
 
 Known issues
 ---
@@ -14,4 +14,4 @@ Server and hosting information
 
 **DNS Server**: dns1.supremedns.com, dns2.supremedns.com
 
-**FTP** Contact (CoDesign Studio)[codesignstudio.com.au]
+**FTP** Contact [CoDesign Studio](codesignstudio.com.au)
