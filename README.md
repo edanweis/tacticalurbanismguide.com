@@ -22,4 +22,4 @@ Server and hosting information
 
 **DNS Server**: dns1.supremedns.com, dns2.supremedns.com
 
-**FTP** Contact [CoDesign Studio](codesignstudio.com.au)
+**FTP** Contact [CoDesign Studio](http://www.codesignstudio.com.au)
